@@ -1,1 +1,0 @@
-# athletic-club-management-system
